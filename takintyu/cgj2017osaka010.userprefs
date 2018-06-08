@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/miyamoto/Script/RankingText.txt">
+    <Files>
+      <File FileName="Assets/master scene/Ranking/RankingMaster.cs" Line="12" Column="41" />
+      <File FileName="Assets/miyamoto/Script/RankingScript.cs" Line="32" Column="36" />
+      <File FileName="Assets/miyamoto/Script/RankingText.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

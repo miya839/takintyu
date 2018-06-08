@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a099191a9a208c4ca0d787ee9253d5f
+timeCreated: 1515891518
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - woodCountTex: {fileID: 114475020533838930, guid: f4b3d67f2e7874c20a7a15a8d1e70c41,
+      type: 2}
+  - axe: {fileID: 1880614638432854, guid: 67bd0238bea7c2d4781d825ada70393b, type: 2}
+  - brokenWood: {fileID: 1439303198130242, guid: 23f489f1a85652a45a6270e71b944072,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
