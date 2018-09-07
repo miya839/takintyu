@@ -29,4 +29,5 @@ version:Unity2017.2.0f3
 　　　　　　　Assets/master scene/MasterStartフォルダの画像以外全て  
 　　　　　　　Assets/master scene/MasterPlayフォルダ内のmasterオブジェクト  
 　　　　　　　Assets/master scene/MasterResultフォルダ画像以外全て  
-　　　　　　　Assets/master scene/Rankingファルダ全て  
+　　　　　　　Assets/master scene/Rankingファルダ全て
+   androidで動作するため作業すべて
